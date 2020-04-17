@@ -7,3 +7,17 @@
 - [ ] **Implement greedy best-first search**
 - [ ] **Implement breath-first search**
 - [ ] **Implement depth-first search**
+
+>For running the project
+```
+$ npm start
+```
+>Dependencies
+- react
+- react-dom
+- create-react-app (which can't be installed globally now)
+> For creating react-apps
+```
+npx create-react-app
+```
+- npx is package runner tool that comes with npm
