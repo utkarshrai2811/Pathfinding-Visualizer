@@ -10,7 +10,13 @@
 
 >For running the project
 ```
-$ npm start
+$ yarn start
+```
+>For making a production build
+```
+$ yarn build
+$ yarn global add serve
+$ serve -s build
 ```
 >Dependencies
 - react
