@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/utkarshrai2811/Pathfinding-Visualizer) 
+
 # Pathfinding-Visualizer
 
 - [X] **Implement dijkstra's algorithm**
